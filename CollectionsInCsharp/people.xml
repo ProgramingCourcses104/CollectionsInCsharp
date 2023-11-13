@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<People>
+	<Person>
+		<Name>John</Name>
+		<City>Test</City>
+		<Age>25</Age>
+	</Person>
+	<Person>
+		<Name>Alice</Name>
+		<City>Test</City>
+		<Age>30</Age>
+	</Person>
+	<Person>
+		<Name>Bob</Name>
+		<City>Test</City>
+		<Age>22</Age>
+	</Person>
+	<Person>
+		<Name>Eve</Name>
+		<City>Test</City>
+		<Age>28</Age>
+	</Person>
+</People>
