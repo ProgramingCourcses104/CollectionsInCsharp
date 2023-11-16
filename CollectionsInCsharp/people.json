@@ -1,8 +1,8 @@
 [
   {
-    "Name": "Adam",
-    "City": "Fruitland",
-    "Age": "19"
+    "name": "Adam",
+    "city": "Fruitland",
+    "age": "19"
   },
   {
     "Name": "Layla",
